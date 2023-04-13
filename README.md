@@ -1,9 +1,8 @@
-# Text-to-SegmentAnything
-
+# Text to Segment Anything
 
 ## Segment Anything with Text Prompts
 
-**Segment Anything Model (SAM)**  can produce high quality object masks from different types of prompts including points, boxes, masks and text. Unfortunately, the text prompt SAM model is not released. Therefore, we used a combination of SAM and CLIP to calculate the similarity between the output masks and text prompt. In this way, you can use **text prompt** to segment anything.
+**Segment Anything Model (SAM)**  can produce high quality object masks from different types of prompts including points, boxes, masks and text. Unfortunately, the text prompt SAM model is not released. Therefore, we used a combination of **SAM** and **CLIP** to calculate the similarity between the output masks and text prompt. In this way, you can use **text prompt** to segment anything.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/18344247/231759722-84ddc7cf-f1a7-4156-94cc-24853baac937.jpg"  width="1000" />
